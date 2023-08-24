@@ -1,0 +1,289 @@
+[{
+  "_id": {
+    "$oid": "6330bc35564fc94d2834b1b6"
+  },
+  "name": "Harshwardhan Lokhande",
+  "position": "Lead",
+  "image_url": "/Avatars/webmasters/harshwardhan_lokhande.jpeg",
+  "__v": 0,
+  "linkedin":"https://www.linkedin.com/in/harshlokhande24"
+},{
+  "_id": {
+    "$oid": "6330bc35564fc94d2834b1b9"
+  },
+  "name": "Pranav Narkhede",
+  "position": "Member",
+  "image_url": "/Avatars/webmasters/pranav_narkhede.jpg",
+  "__v": 0,
+  "linkedin":"https://www.linkedin.com/in/pranav-narkhede-66b99b22b"
+},{
+  "_id": {
+    "$oid": "6330bc35564fc94d2834b1bc"
+  },
+  "name": "Sairaj Gulve",
+  "position": "Member",
+  "image_url": "/Avatars/webmasters/sairaj_gulve.jpg",
+  "__v": 0 ,
+   "linkedin":"http://www.linkedin.com/in/sairaj-gulve-740914228"
+},{
+  "_id": {
+    "$oid": "6330bc35564fc94d2834b1bf"
+  },
+  "name": "Prathamesh Patil",
+  "position": "Member",
+  "image_url": "/Avatars/webmasters/prathamesh_patil.jpg",
+  "__v": 0,
+  "linkedin":"https://www.linkedin.com/in/Prathamesh-Patil-Jalgaon"
+},{
+  "_id": {
+    "$oid": "6330bde0df85e51499947197"
+  },
+  "name": "Aryaan Madhani",
+  "position": "IEEE Co-Chairman",
+  "image_url": "/Avatars/core/aryaan_madhani.jpg",
+  "__v": 0,
+  "linkedin":"https://www.linkedin.com/in/aryaan-madhani1802"
+},{
+  "_id": {
+    "$oid": "6330bde0df85e5149994718b"
+  },
+  "name": "A S Laxman Babu",
+  "position": "IEEE Chairman",
+  "image_url": "/Avatars/core/as_laxman_babu.jpg",
+  "__v": 0,
+  "linkedin":"https://www.linkedin.com/in/laxman-babu-a-s-981a10193/"
+},{
+  "_id": {
+    "$oid": "6330bde0df85e51499947191"
+  },
+  "name": "Swaraj Bangar",
+  "position": "Co-Secretary",
+  "image_url": "/Avatars/core/swaraj_bangar.jpg",
+  "__v": 0,
+  "linkedin":"https://www.linkedin.com/in/swaraj-bangar-5b948a256"
+},{
+  "_id": {
+    "$oid": "6330bde0df85e5149994718e"
+  },
+  "name": "Sakshi Londhe",
+  "position": "ITSA Vice-President",
+  "image_url": "/Avatars/core/sakshi_londhe.jpg",
+  "__v": 0,
+  "linkedin":"https://www.linkedin.com/in/sakshi-londhe-a8283122b"
+},{
+  "_id": {
+    "$oid": "6330bde0df85e51499947194"
+  },
+  "name": "Harsh Warkari",
+  "position": "ITSA President",
+  "image_url": "/Avatars/core/harsh_warkari.jpg",
+  "__v": 0,
+  "linkedin":"https://www.linkedin.com/in/harsh-warkari-76741a22a"
+},{
+  "_id": {
+    "$oid": "6330bde1df85e5149994719a"
+  },
+  "name": "Suhail Pathan",
+  "position": "Secretary",
+  "image_url": "/Avatars/core/suhail_pathan.jpg",
+  "__v": 0,
+  "linkedin":"https://www.linkedin.com/in/suhail-pathan-3948341ba"
+},{
+  "_id": {
+    "$oid": "6330bde0df85e51499947192"
+  },
+  "name": "Kunal Bhala",
+  "position": "Treasurer",
+  "image_url": "/Avatars/core/kunal_bhala.jpg",
+  "__v": 0,
+  "linkedin":"https://www.linkedin.com/in/kunal-bhala-5b76a322b"
+},{
+  "_id": {
+    "$oid": "6330bde0df85e51499947193"
+  },
+  "name": "Rohit Shinde",
+  "position": "Co-Treasurer",
+  "image_url": "/Avatars/core/rohit_shinde.jpeg",
+  "__v": 0,
+  "linkedin":"#"
+},{
+  "_id": {
+    "$oid": "6330be66a5858cc36ba454fc"
+  },
+  "name": "Vibhuti Pawar",
+  "position": "Lead",
+  "image_url": "/Avatars/video/vibhuti_pawar.jpg",
+  "__v": 0,
+  "linkedin":"https://www.linkedin.com/in/vibhuti-pawar-3190b622a"
+},{
+  "_id": {
+    "$oid": "6330be8fa6f2200ba5c3adcd"
+  },
+  "name": "Ashran Pathan",
+  "position": "Lead",
+  "image_url": "/Avatars/sports/ashran_pathan.jpg",
+  "__v": 0,
+  "linkedin":"https://www.linkedin.com/in/ashran-pathan-541a1127b/"
+},{
+  "_id": {
+    "$oid": "6330bf62e54a9d4bd1750255"
+  },
+  "name": "Harshwardhan Lokhande",
+  "position": "Lead",
+  "image_url": "/Avatars/publicity/harshwardhan_lokhande.jpeg",
+  "__v": 0,
+  "linkedin":"https://www.linkedin.com/in/harshlokhande24"
+},{
+  "_id": {
+    "$oid": "6330bf62e54a9d4bd1750258"
+  },
+  "name": "Akanksha Agarwal",
+  "position": "Member",
+  "image_url": "#",
+  "__v": 0,
+  "linkedin":"https://www.linkedin.com/in/#"
+},{
+  "_id": {
+    "$oid": "6330bf62e54a9d4bd1750259"
+  },
+  "name": "Raghina Bhat",
+  "position": "Member",
+  "image_url": "#",
+  "__v": 0,
+  "linkedin":"https://www.linkedin.com/in/#"
+},{
+  "_id": {
+    "$oid": "6330bf8c270dd441b136d42a"
+  },
+  "name": "Amar Swami",
+  "position": "NSS Lead",
+  "image_url": "#",
+  "__v": 0,
+  "linkedin":"https://www.linkedin.com/in/#"
+},{
+  "_id": {
+    "$oid": "6330bf8c270dd441b136d42b"
+  },
+  "name": "Abhishek Shinde",
+  "position": "ISR Lead",
+  "image_url": "/Avatars/nss_isr/abhishek_shinde.jpg",
+  "__v": 0,
+  "linkedin":"https://www.linkedin.com/in/abhishek-shinde-269b4122a"
+},{
+  "_id": {
+    "$oid": "6330bfe758092e726eef09bb"
+  },
+  "name": "Vaishnavi Naik",
+  "position": "Lead",
+  "image_url": "#",
+  "__v": 0,
+  "linkedin":"https://www.linkedin.com/in/#"
+},{
+  "_id": {
+    "$oid": "6330bfe758092e726eef09be"
+  },
+  "name": "Janhavi Bilgaye",
+  "position": "Member",
+  "image_url": "#",
+  "__v": 0,
+  "linkedin":"https://ca.linkedin.com/in/#"
+},{
+  "_id": {
+    "$oid": "6330c02185148cdc8a4b583c"
+  },
+  "name": "Harshal Soni",
+  "position": "Lead",
+  "image_url": "https://raw.githubusercontent.com/YashJ007/itsa-images/main/Harshal_s.jpg",
+  "__v": 0,
+  "linkedin":"https://www.linkedin.com/in/harsh-soni-25a86b209"
+},{
+  "_id": {
+    "$oid": "6330c04039948006e152848a"
+  },
+  "name": "Simran Kamble",
+  "position": "Lead",
+  "image_url": "https://raw.githubusercontent.com/YashJ007/itsa-images/main/Simran.jpeg",
+  "__v": 0,
+  "linkedin":"https://www.linkedin.com/in/simran-kamble-177950250/"
+},{
+  "_id": {
+    "$oid": "6330c28d43f0191f870d97a4"
+  },
+  "name": "Tanishq Khadkikar",
+  "position": "Lead",
+  "image_url": "/Avatars/higher_studies/tanishq_khadkikkar.jpg",
+  "__v": 0,
+  "linkedin":"https://www.linkedin.com/in/tanishq-khadkikar-8b784b252"
+},{
+  "_id": {
+    "$oid": "6330c37739f860c6a1aafb34"
+  },
+  "name": "Abhishek Kulkarni",
+  "position": "Lead",
+  "image_url": "/Avatars/event_management/abhishek_kulkarni.jpg",
+  "__v": 0,
+  "linkedin":"https://www.linkedin.com/in/abhishekakulkarni/"
+},{
+  "_id": {
+    "$oid": "6330c37739f860c6a1aafb37"
+  },
+  "name": "Aditi Soni",
+  "position": "Co-Lead",
+  "image_url": "/Avatars/event_management/aditi_soni.jpeg",
+  "__v": 0,
+  "linkedin":"https://www.linkedin.com/in/aditisoni21/"
+},{
+  "_id": {
+    "$oid": "6330c37739f860c6a1aafb3a"
+  },
+  "name": "Tanay Patil",
+  "position": "Member",
+  "image_url": "/Avatars/event_management/tanay_patil.jpeg",
+  "__v": 0,
+  "linkedin":"https://www.linkedin.com/in/tanay-patil-b2364222b"
+},{
+  "_id": {
+    "$oid": "6330c37739f860c6a1aafb3d"
+  },
+  "name": "Ashran Pathan",
+  "position": "Member",
+  "image_url": "/Avatars/event_management/ashran_pathan.jpg",
+  "__v": 0,
+  "linkedin":"https://www.linkedin.com/in/ashran-pathan-541a1127b/"
+},{
+  "_id": {
+    "$oid": "6330c3ceed4c3dfe8ac231ff"
+  },
+  "name": "Sanjiwani Kosare",
+  "position": "Lead",
+  "image_url": "#",
+  "__v": 0,
+  "linkedin":"https://www.linkedin.com/in/#"
+},{
+  "_id": {
+    "$oid": "6330c3ceed4c3dfe8ac23202"
+  },
+  "name": "Sanchita Devkar",
+  "position": "Member",
+  "image_url": "#",
+  "__v": 0,
+  "linkedin":"https://www.linkedin.com/in/#"
+},{
+  "_id": {
+    "$oid": "6330c4364718b8082b7d250e"
+  },
+  "name": "Raghina Bhat",
+  "position": "Lead",
+  "image_url": "#",
+  "__v": 0,
+  "linkedin":"https://www.linkedin.com/in/"
+},{
+  "_id": {
+    "$oid": "6330c45e2b238eb18ff26de9"
+  },
+  "name": "Yashwant Deshmukh",
+  "position": "Lead",
+  "image_url": "/Avatars/art_circle/yashwant_deshmukh.jpg",
+  "__v": 0,
+  "linkedin":"https://www.linkedin.com/in/yashwant-deshmukh-602810259"
+}]
